@@ -1,2 +1,2 @@
 # myProject
-https://github.com/ts-debug/myProject.git
+git clone https://github.com/ts-debug/myProject.git
